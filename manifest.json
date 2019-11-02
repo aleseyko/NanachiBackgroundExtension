@@ -1,0 +1,12 @@
+{
+  "name": "Nanachi Background App",
+  "version": "0.2",
+
+ "chrome_url_overrides": {
+  "newtab": "newTab.html"
+},
+  "permissions": ["tabs", "activeTab"],
+
+  "manifest_version": 2
+}
+
